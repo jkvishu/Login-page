@@ -9,5 +9,5 @@ You can reuse it and embed it in your own project
 ### 1.Npm install 
 <p>To install all dependencies</p>
 
-### 2.Npm run
+### 2.Npm start
 <p>To run the react app</p>
