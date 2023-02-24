@@ -13,5 +13,6 @@
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | Project                             | [Live Demo](https://jkvishu.github.io/Login-pages/1.Project/index.html)
+| 02  | Project                             | [Live Demo](https://jkvishu.github.io/Login-pages/2.Project/index.html)
 
 
