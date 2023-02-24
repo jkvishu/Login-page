@@ -32,8 +32,11 @@ body {
   display: flex;
   justify-content: center;
 }
-.login-right img {
-  width: 100%;
+.login-right svg {
+  width: 70%;
+  padding: 60px;
+  margin-right: 140px;
+  margin-top:50px;
 }
 
 .login-header {
@@ -58,7 +61,7 @@ body {
 .login-form-footer {
   display: flex;
   gap: 30px;
-  margin-top: 70px;
+  margin-top: 40px;
 }
 .login-form-footer a {
   flex: 6;
@@ -145,4 +148,4 @@ button {
   .login-right {
     display: none;
   }
-}/*# sourceMappingURL=login.css.map */
+}
