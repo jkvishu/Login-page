@@ -12,8 +12,9 @@
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | Project                             | [Live Demo](https://jkvishu.github.io/Login-pages/1.Project/index.html)
-| 02  | Project                             | [Live Demo](https://jkvishu.github.io/Login-pages/2.Project/index.html)
-| 03  | Project                             | [Live Demo](https://jkvishu.github.io/Login-pages/3.Project/index.html)
+| 01  | Project                             | [Click Here](https://jkvishu.github.io/Login-pages/1.Project/index.html)
+| 02  | Project                             | [Click Here](https://jkvishu.github.io/Login-pages/2.Project/index.html)
+| 03  | Project                             | [Click Here](https://jkvishu.github.io/Login-pages/3.Project/index.html)
+| 04  | Project                             | [Click Here](https://jkvishu.github.io/Login-pages/4.Project/index.html)
 
 
